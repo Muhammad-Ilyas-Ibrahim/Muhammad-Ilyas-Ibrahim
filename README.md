@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am @Muhammad-Ilyas-Ibrahim.<br>👀 I am interested in Android development,<br>Ethical hacking, Artificial intelligence.<br>🌱 I am currently studying (BSCS).
+👋 Hi, I am @Muhammad-Ilyas.<br>👀 I am interested in Android development,<br>Ethical hacking, Artificial intelligence.<br>🌱 I am in the final year of BSCS.
 
 
 ## 🌐 Socials:
