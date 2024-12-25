@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am @Muhammad-Ilyas.<br>👀 I am interested in Full Stack Web Development,<br>Ethical hacking, Artificial intelligence.<br>🌱 I have done BS in CS from UET Taxila and currently persueing MS Data Science. Certified Ethical Hacker by Metaxone and HCIA Datacom Certified from Huawei.
+👋 Hi, I am @Muhammad-Ilyas.<br>👀 I am interested in Data Science ,<br>Artificial intelligence and Ethical hacking.<br>🌱 I have done BS in CS from UET Taxila and currently persueing MS Data Science. Certified Ethical Hacker by Metaxone and HCIA Datacom Certified from Huawei.
 
 
 ## 🌐 Socials:
