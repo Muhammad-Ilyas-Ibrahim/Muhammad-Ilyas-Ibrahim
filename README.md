@@ -30,7 +30,7 @@ I love collaborating with diverse teams to brainstorm <br> new ideas and tackle 
 ### Frontend  
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,&perline=4" />   <!--   bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign -->
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,&perline=4" />   <!--   bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign -->
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -38,7 +38,7 @@ I love collaborating with diverse teams to brainstorm <br> new ideas and tackle 
 ### Backend
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" /> <!--   firebase,nodejs,express -->
+       <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=4" /> <!--   firebase,nodejs,express -->
 </div>
 </a>
 
@@ -65,7 +65,7 @@ I love collaborating with diverse teams to brainstorm <br> new ideas and tackle 
 ### Others 
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,figma,discord&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,linux,&perline=4" /> 
 </div>
 </a>
  </td> 
