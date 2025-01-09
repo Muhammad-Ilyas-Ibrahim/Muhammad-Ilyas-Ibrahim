@@ -9,8 +9,11 @@ I'm a Master's student in Data Science with a passion for <br>turning raw data i
 <br><br>
 I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle real-world problems.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ilyas-ibrahim/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18039310) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TechWizard137) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/TECHWIZARD137) 
 
-##  My Skill Set 🛠️:
+
+##  💻 Tech Stack:
 
 <table><tr><td valign="top" width="25%">
   
@@ -52,7 +55,7 @@ I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle
 ###  Languages
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=python,cpp,&perline=4" /> 
+    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
@@ -60,7 +63,7 @@ I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle
 ### Others 
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,figma,discord&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,canva,discord&perline=4" /> 
 </div>
 </a>
  </td> 
@@ -84,3 +87,7 @@ I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ilyas-Ibrahim&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
    </a>  
  </p>
+
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
