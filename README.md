@@ -78,14 +78,8 @@ I love collaborating with diverse teams to brainstorm <br> new ideas and tackle 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-
- <p align="center">
-   <a href="https://github.com/Muhammad-Ilyas-Ibrahim"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ilyas-Ibrahim&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
- </p>
+<br>
+<hr>
 
  ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
