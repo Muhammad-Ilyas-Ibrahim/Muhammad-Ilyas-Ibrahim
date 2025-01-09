@@ -1,19 +1,87 @@
-# 💫 About Me:
-👋 Hi, I am Muhammad Ilyas <br>👀 I am interested in Data Science ,<br>Artificial intelligence and Ethical hacking.<br>🌱 I have done BS in CS from UET Taxila and currently persueing MS Data Science. Certified Ethical Hacker by Metaxone and HCIA Datacom Certified from Huawei.
+<h1 align="center">Hi 👋, I'm Muhammad Ilyas</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data Science Enthusiast;Learning AI;IT - Professional;%20Loves%20to%20Learn%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
+</p>
+<img align="right" alt="Coding" width="300" border-radius=50  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ilyas-ibrahim/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18039310) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TechWizard137) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/TECHWIZARD137) 
+<h1>Who Am I?</h1> 
+I'm a Master's student in Data Science with a passion for <br>turning raw data into valuable insights.
+<br><br>
+I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle real-world problems.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+##  My Skill Set 🛠️:
 
----
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Ilyas-Ibrahim&icon=0&color=0)](https://visitcount.itsvg.in)
+<table><tr><td valign="top" width="25%">
+  
+### Machine Learning
+<a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,&perline=4" />   <!--   bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign -->
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Backend
+<a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" /> <!--   firebase,nodejs,express -->
+</div>
+</a>
+
+</td>
+</tr>
+<tr><td valign="top" width="25%">
+
+### Code Editors  
+<a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=vscode,pycharm,&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+    
+###  Languages
+<a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
+<div align="center"> 
+    <img src="https://skillicons.dev/icons?i=python,cpp,&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+
+### Others 
+<a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=git,github,figma,discord&perline=4" /> 
+</div>
+</a>
+ </td> 
+</tr>
+</table>
+
+
+##  Github Stats📈:
+
+<p align="center">
+    <a href="https://github.com/Muhammad-Ilyas-Ibrahim">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammad-Ilyas-Ibrahim&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Ilyas-Ibrahim&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
+
+
+ <p align="center">
+   <a href="https://github.com/Muhammad-Ilyas-Ibrahim"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ilyas-Ibrahim&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
+   </a>  
+ </p>
