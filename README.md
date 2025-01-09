@@ -63,7 +63,7 @@ I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle
 ### Others 
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,figma,canva,discord&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,discord&perline=4" /> 
 </div>
 </a>
  </td> 
