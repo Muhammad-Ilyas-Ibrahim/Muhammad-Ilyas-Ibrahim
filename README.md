@@ -5,9 +5,11 @@
 
 
 <h1>Who Am I?</h1> 
-I'm a Master's student in Data Science with a passion for <br>turning raw data into valuable insights.
-<br><br>
-I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle real-world problems.
+I'm a Master's student in Data Science with a passion for <br> turning raw data into valuable insights.  
+<br><br>  
+As a Python Developer, I have extensive experience in web development using Flask, web scraping, automation, and computer vision.  
+<br><br>  
+I love collaborating with diverse teams to brainstorm <br> new ideas and tackle real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ilyas-ibrahim/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18039310) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TechWizard137) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/TECHWIZARD137) 
