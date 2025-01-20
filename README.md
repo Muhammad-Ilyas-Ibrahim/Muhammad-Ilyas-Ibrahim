@@ -74,7 +74,7 @@ I love collaborating with diverse teams to brainstorm <br> new ideas and tackle 
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ilyas-Ibrahim&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true&cache_seconds=60)
+![](https://github-readme-streak-stats.herokuapp.com/?username=Muhammad-Ilyas-Ibrahim&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true&cache_seconds=60)
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 <br/>
