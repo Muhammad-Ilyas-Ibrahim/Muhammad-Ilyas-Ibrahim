@@ -82,7 +82,7 @@ I love collaborating with diverse teams to brainstorm <br> new ideas and tackle 
 
 
 ## 📊 LeetCode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ilyas137)](https://leetcode.com/ilyas137)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ilyas137&lapor?ext=heatmap)](https://leetcode.com/ilyas137)
 
 
 <br/>
