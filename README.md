@@ -12,10 +12,9 @@ As a Python Developer, I have extensive experience and expertise <br> in the fol
 - Web Scraping 
 - Web Automation 
 - Desktop Application Development
-- Machine Learning
+- Machine Learning & Deep Learning
 - Database Management and Integration
 - Web Development using Flask and Django
-- Computer Vision
   
 I love collaborating with diverse teams to brainstorm <br> new ideas and tackle real-world problems.
 
