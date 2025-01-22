@@ -5,18 +5,27 @@
 
 
 <h1> 📖 About Me </h1> 
-I'm a Master's student in Data Science with a passion for <br> turning raw data into valuable insights.  
-</br></br>  
+<p style="font-size: 20px; line-height: 1.6;">
+  I'm a Master's student in Data Science with a passion for <br> 
+  turning raw data into valuable insights.  
+</p>
+<p style="font-size: 20px; line-height: 1.6;">
+  As a Python Developer, I have extensive experience and expertise <br> 
+  in the following areas: 
+</p>
+<ul style="font-size: 20px; line-height: 1.6;">
+  <li>Web Scraping</li>
+  <li>Web Automation</li>
+  <li>Desktop Application Development</li>
+  <li>Machine Learning & Deep Learning</li>
+  <li>Database Management and Integration</li>
+  <li>Web Development using Flask and Django</li>
+</ul>
+<p style="font-size: 20px; line-height: 1.6;">
+  I love collaborating with diverse teams to brainstorm <br> 
+  new ideas and tackle real-world problems.
+</p>
 
-As a Python Developer, I have extensive experience and expertise <br> in the following areas: 
-- Web Scraping 
-- Web Automation 
-- Desktop Application Development
-- Machine Learning & Deep Learning
-- Database Management and Integration
-- Web Development using Flask and Django
-  
-I love collaborating with diverse teams to brainstorm <br> new ideas and tackle real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ilyas-ibrahim/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18039310) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TechWizard137) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/TECHWIZARD137) 
