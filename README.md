@@ -8,7 +8,7 @@
 I'm a Master's student in Data Science with a passion for <br> turning raw data into valuable insights.  
 </br></br>  
 
-As a Python Developer, I have extensive experience and expertise in the following areas: 
+As a Python Developer, I have extensive experience and expertise <br> in the following areas: 
 - Web Scraping 
 - Web Automation 
 - Desktop Application Development
