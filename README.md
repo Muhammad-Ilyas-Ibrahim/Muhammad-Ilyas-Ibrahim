@@ -4,7 +4,7 @@
 </p>
 
 
-<h1>Who Am I?</h1> 
+<h1> 📖 About Me </h1> 
 I'm a Master's student in Data Science with a passion for <br> turning raw data into valuable insights.  
 </br></br>  
 
