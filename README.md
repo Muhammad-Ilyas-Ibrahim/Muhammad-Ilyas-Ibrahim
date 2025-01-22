@@ -6,9 +6,17 @@
 
 <h1>Who Am I?</h1> 
 I'm a Master's student in Data Science with a passion for <br> turning raw data into valuable insights.  
-<br><br>  
-As a Python Developer, I have extensive experience in <br> web development using Flask, web scraping,<br> automation, and computer vision.  
-<br><br>  
+</br></br>  
+
+As a Python Developer, I have extensive experience and expertise in the following areas: 
+- Web Scraping 
+- Web Automation 
+- Desktop Application Development
+- Machine Learning
+- Database Management and Integration
+- Web Development using Flask and Django
+- Computer Vision
+  
 I love collaborating with diverse teams to brainstorm <br> new ideas and tackle real-world problems.
 
 ## 🌐 Socials:
