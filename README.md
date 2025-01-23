@@ -90,10 +90,15 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats-it8q8f01c.vercel.app?user=Muhammad-Ilyas-Ibrahim)
-<br/>
+
+![](https://github-readme-streak-stats-it8q8f01c.vercel.app?user=Muhammad-Ilyas-Ibrahim&theme=highcontrast)
+
+</br>
+
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
+
+</br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -101,7 +106,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ilyas137?ext=activity)](https://leetcode.com/ilyas137)
 
 
-<br/>
+</br>
 <hr>
 
  ### ✍️ Random Dev Quote
