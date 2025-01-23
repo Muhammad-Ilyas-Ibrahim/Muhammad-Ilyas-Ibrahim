@@ -90,7 +90,7 @@
 
 
 ## 📊 GitHub Stats:
-[![](https://github-readme-streak-stats-9508kk5xl.vercel.app?user=Muhammad-Ilyas-Ibrahim)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com?user=Muhammad-Ilyas-Ibrahim&theme=dark&short_numbers=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 <br/>
