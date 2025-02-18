@@ -91,7 +91,7 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats-it8q8f01c.vercel.app?user=Muhammad-Ilyas-Ibrahim&theme=highcontrast)
+![](https://github-readme-streak-stats-it8q8f01c.vercel.app?user=Muhammad-Ilyas-Ibrahim&theme=highcontrast)
 
 </br>
 
