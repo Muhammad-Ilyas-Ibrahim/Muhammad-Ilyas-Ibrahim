@@ -1,39 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ilyas</h1>
-<!-- <p align="center">
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20Enthusiast;Learning%20AI;IT%20-%20Professional;%20Loves%20to%20Learn%20New%20Things;Open%20to%20Hackathons;Open%20to%20Coding%20Contests&font=Fira%20Code¢er=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
-</p> -->
-
-<div id="typing"></div>
-<script>
-  const texts = ["Data Science Enthusiast", "Learning AI", "IT - Professional", "Loves to Learn New Things", "Open to Hackathons", "Open to Coding Contests"];
-  let index = 0, charIndex = 0, isDeleting = false;
-  const typingElement = document.getElementById("typing");
-  
-  function type() {
-    const currentText = texts[index];
-    typingElement.textContent = currentText.substring(0, charIndex);
-    
-    if (!isDeleting && charIndex < currentText.length) {
-      charIndex++;
-    } else if (isDeleting && charIndex > 0) {
-      charIndex--;
-    } else if (!isDeleting && charIndex === currentText.length) {
-      isDeleting = true;
-      setTimeout(type, 1000);
-      return;
-    } else if (isDeleting && charIndex === 0) {
-      isDeleting = false;
-      index = (index + 1) % texts.length;
-    }
-    
-    setTimeout(type, isDeleting ? 50 : 100);
-  }
-  type();
-</script>
-<style>
-  #typing { font-family: "Fira Code", monospace; color: #bfcfde; font-size: 22px; }
-</style>
-
+</p>
 
 <h1> 📖 About Me </h1> 
 <p style="font-size: 20px; line-height: 1.6;">
