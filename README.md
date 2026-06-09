@@ -119,11 +119,11 @@
 <!-- This is my deployed API, I think it's not public. I have to check it later -->
 <!-- ![](https://github-readme-streak-stats-it8q8f01c.vercel.app?user=Muhammad-Ilyas-Ibrahim&theme=highcontrast) -->
 
-![](https://github-readme-streak-stats-eight.vercel.app?user=Muhammad-Ilyas-Ibrahim&theme=highcontrast)
+![GitHub Stats](https://github-readme-streak-stats-eight.vercel.app?user=Muhammad-Ilyas-Ibrahim&theme=highcontrast)
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 </br>
 
