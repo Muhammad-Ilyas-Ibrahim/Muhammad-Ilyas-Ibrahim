@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ilyas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20Enthusiast;Learning%20AI;IT%20-%20Professional;%20Loves%20to%20Learn%20New%20Things;Open%20to%20Hackathons;Open%20to%20Coding%20Contests&font=Fira%20Code¢er=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20Enthusiast;Learning%20AI;IT%20-%20Professional;Loves%20to%20Learn%20New%20Things;Open%20to%20Hackathons;Open%20to%20Coding%20Contests&font=Fira%20Code&center=true&width=440&height=45&color=bfcfde&vCenter=true&size=22&pause=1000">
 </p>
 
 <h1> 📖 About Me </h1> 
@@ -33,7 +33,9 @@
 
 ##  💻 Tech Stack:
 
-<table><tr><td valign="top" width="25%">
+<table>
+<tr>
+<td valign="top" width="25%">
   
 ### Machine Learning
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
@@ -41,26 +43,31 @@
        <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
 </div>
 </a>
-</td><td valign="top" width="25%">
+</td>
+
+<td valign="top" width="25%">
 
 ### Frontend  
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,&perline=4" />   <!--   bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign -->
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,&perline=4" />
 </div>
 </a>
- </td><td valign="top" width="25%">
+</td>
+
+<td valign="top" width="25%">
         
 ### Backend
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=4" /> <!--   firebase,nodejs,express -->
+       <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=4" />
 </div>
 </a>
-
 </td>
 </tr>
-<tr><td valign="top" width="25%">
+
+<tr>
+<td valign="top" width="25%">
 
 ### Code Editors  
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
@@ -68,32 +75,51 @@
        <img src="https://skillicons.dev/icons?i=vscode,pycharm,&perline=4" /> 
 </div>
 </a>
-</td><td valign="top" width="25%">
+</td>
+
+<td valign="top" width="25%">
     
-###  Languages
+### Languages
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=python,cpp,javascript,&perline=4" /> 
 </div>
 </a>
-</td><td valign="top" width="25%">
+</td>
+
+<td valign="top" width="25%">
 
 ### Others 
 <a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,figma,linux,&perline=4" /> 
+  <div align="center">  
+       <img src="https://skillicons.dev/icons?i=vercel,powershell,postman,figma,&perline=4" /> 
+  </div>
+</a>
+</td> 
+</tr>
+
+<tr>
+
+<tr>
+<td colspan="3" valign="top" align="center">
+  
+### DevOps
+<a href="https://github.com/Muhammad-Ilyas-Ibrahim/">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,jenkins,terraform,azure,aws,linux,bash&perline=6" />
 </div>
 </a>
- </td> 
-</tr>
-</table>
 
+</td>
+</tr>
+
+</table>
 
 ## 📊 GitHub Stats:
 <!-- This is my deployed API, I think it's not public. I have to check it later -->
 <!-- ![](https://github-readme-streak-stats-it8q8f01c.vercel.app?user=Muhammad-Ilyas-Ibrahim&theme=highcontrast) -->
 
-![](https://github-readme-streak-stats-eight.vercel.app/?user=Muhammad-Ilyas-Ibrahim&theme=highcontrast)
+![](https://github-readme-streak-stats-eight.vercel.app?user=Muhammad-Ilyas-Ibrahim&theme=highcontrast)
 
 </br>
 
@@ -104,13 +130,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ilyas-Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📊 LeetCode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ilyas137?ext=activity)](https://leetcode.com/ilyas137)
-
-
 </br>
 <hr>
 
  ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
